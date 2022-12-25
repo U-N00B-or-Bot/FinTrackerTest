@@ -12,6 +12,7 @@
 		732A7E122958BC5200C9E738 /* FinTrackerTest.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 732A7E102958BC5200C9E738 /* FinTrackerTest.xcdatamodeld */; };
 		732A7E142958BC5300C9E738 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 732A7E132958BC5300C9E738 /* Assets.xcassets */; };
 		732A7E172958BC5300C9E738 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 732A7E152958BC5300C9E738 /* LaunchScreen.storyboard */; };
+		732A7E1F2958E12600C9E738 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 732A7E1E2958E12600C9E738 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		732A7E132958BC5300C9E738 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		732A7E162958BC5300C9E738 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		732A7E182958BC5300C9E738 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		732A7E1E2958E12600C9E738 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				732A7E072958BC5200C9E738 /* AppDelegate.swift */,
 				732A7E0B2958BC5200C9E738 /* ViewController.swift */,
+				732A7E1E2958E12600C9E738 /* SecondViewController.swift */,
 				732A7E132958BC5300C9E738 /* Assets.xcassets */,
 				732A7E152958BC5300C9E738 /* LaunchScreen.storyboard */,
 				732A7E182958BC5300C9E738 /* Info.plist */,
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				732A7E1F2958E12600C9E738 /* SecondViewController.swift in Sources */,
 				732A7E122958BC5200C9E738 /* FinTrackerTest.xcdatamodeld in Sources */,
 				732A7E0C2958BC5200C9E738 /* ViewController.swift in Sources */,
 				732A7E082958BC5200C9E738 /* AppDelegate.swift in Sources */,
